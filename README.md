@@ -24,5 +24,5 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I like to code and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kamran-ahmad-966686283/)https://www.linkedin.com/in/kamran-ahmad-966686283/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-ahmad-966686283)
 </div>
