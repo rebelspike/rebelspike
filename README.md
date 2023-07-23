@@ -26,9 +26,9 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-ahmad-966686283/)
 </div>
-
----
 <div align="left">
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
