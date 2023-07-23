@@ -1,8 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="header">
-  <a href="https://www.linkedin.com/in/kamran-ahmad-966686283/">
+  <a href="https://open.spotify.com/user/31f3fqo24l2csri6uhabtltxbgqq">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://www.linkedin.com/in/kamran-ahmad-966686283/">
+    <img src="https://img.shields.io/badge/Spotify-green?logo=spotify&logoColor=black&style=for-the-badge" alt="Spotify Badge"/>
   </a>
   <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=rebelspike&style=flat-square&color=blue" alt=""/>
