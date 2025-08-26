@@ -51,7 +51,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rebelspike&theme=highcontrast)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rebelspike)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rebelspike&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebelspike&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
